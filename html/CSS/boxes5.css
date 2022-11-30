@@ -1,0 +1,6 @@
+p.one { border-style: dotted;
+  border-color: #0088dd;}
+p.two { border-style: groove;
+  border-color: #bbbbaa#111111#ee3e80#0088dd;}
+
+p{width: 250px;border: 3px dotted #blue;}

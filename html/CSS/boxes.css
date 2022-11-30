@@ -1,0 +1,7 @@
+div {height: 300px;width: 300px;background-color: #bbbbaa;}
+p{Height: 75%;width: 75%;background-color: #0088dd;}
+
+
+ /*<!--table with margin and padding -->*/
+td.description {min-width: 450px; max-width: 650px; text-align: left; padding: 5px; margin: 0px;}
+th{color: #ee3e80;}

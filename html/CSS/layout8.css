@@ -1,0 +1,6 @@
+
+body {width: 1000px;font-family: Arial, Verdana,sans-serif;color: #665544;}
+h1 {background-color: #efefef;padding: 10px;}
+p{width: 450px;}
+.column1of2 {float: left;width: 750px;margin: 10px;}
+.column2of2 {float: left;width: 250px;margin: 10px;}
